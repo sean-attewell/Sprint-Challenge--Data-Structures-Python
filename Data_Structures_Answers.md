@@ -21,6 +21,7 @@ Add your answers to the questions below.
 6. What is the space complexity of the provided code in `names.py`?  
    It stores one potential duplicate for each input (worst case every name is a duplicate), so it is:  
    O(n)
+   Correct ans: O(1) - Samar to investigate
 
 7. What is the runtime complexity of your optimized code in `names.py`?  
     Contains method is O(log(n) and it is within a for loop so the overall time complexity is Log Linear time:
