@@ -23,7 +23,8 @@ Add your answers to the questions below.
    O(n)
 
 7. What is the runtime complexity of your optimized code in `names.py`?  
+    Contains method is O(log(n) and it is within a for loop so the overall time complexity is Log Linear time:
    O(n log(n))
 
-8) What is the space complexity of your optimized code in `names.py`?  
-    O(n)
+8. What is the space complexity of your optimized code in `names.py`?  
+   O(n)
